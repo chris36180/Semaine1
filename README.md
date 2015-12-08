@@ -1,8 +1,12 @@
 # Semaine1
 Exercice 1 : Remplir votre profil Simplonline
+
 Exercice 2 : Créer votre compte Github
+
 Exercice 3 : Créer votre compte Cloud9
+
 Exercice 4 : Relier votre compte Cloud9 et votre compte Github
+
 Exercice 5 : Faire un README.md de présentation dans Github
 
 
