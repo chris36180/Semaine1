@@ -1,4 +1,15 @@
 # Semaine1
+Exercice 1 : Remplir votre profil Simplonline
+Exercice 2 : Créer votre compte Github
+Exercice 3 : Créer votre compte Cloud9
+Exercice 4 : Relier votre compte Cloud9 et votre compte Github
+Exercice 5 : Faire un README.md de présentation dans Github
+
+
+
+
+
+
 
 Bonjour je m'appelle "Christophe";
 J'ai 39 ans je suis passionné d'informatique depuis 1987 .
